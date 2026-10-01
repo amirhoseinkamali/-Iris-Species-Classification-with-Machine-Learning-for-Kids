@@ -1,5 +1,4 @@
 # Iris Species Classification with Machine Learning for Kids
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/amirhoseinkamali/-Iris-Species-Classification-with-Machine-Learning-for-Kids)
 
 ## Overview
 This project demonstrates the classification of Iris flower species using a machine learning model trained on the "Machine Learning for Kids" platform. The model takes four numerical features (sepal and petal measurements) to perform multiclass classification among three Iris species: Setosa, Versicolor, and Virginica. The entire pipeline, from data preparation to model evaluation, is executed within a Jupyter Notebook, which consumes the pre-trained model via a REST API.
